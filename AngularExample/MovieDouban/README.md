@@ -1,7 +1,7 @@
 ## Angular 实现的豆瓣电影
 
-![sampleIndex](https://github.com/zhengkai7651/zheng.github.id/blob/master/AngularExample/MovieDouban/sample_1.jpg)
-![sampleDetail](https://github.com/zhengkai7651/zheng.github.id/blob/master/AngularExample/MovieDouban/sample_2.jpg)
+![sampleIndex](https://github.com/zhengkai7651/zheng-Angular/blob/master/AngularExample/MovieDouban/sample_1.jpg)
+![sampleDetail](https://github.com/zhengkai7651/zheng-Angular/blob/master/AngularExample/MovieDouban/sample_2.jpg)
 
 
 
