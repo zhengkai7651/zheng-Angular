@@ -9,8 +9,8 @@
 	
 	使用Dcloud打包成apk，ipa Android，IOS安装包
 	
-	![Android安装包](https://github.com/zhengkai7651/zheng-Angular/blob/master/AngularExample/MovieDouban/AgMovie_0622153924.apk)
-	![IOS安装包](https://github.com/zhengkai7651/zheng-Angular/blob/master/AngularExample/MovieDouban/AgMovie_0622154210.ipa)
+	[Android安装包](https://github.com/zhengkai7651/zheng-Angular/blob/master/AngularExample/MovieDouban/AgMovie_0622153924.apk)
+	[IOS安装包](https://github.com/zhengkai7651/zheng-Angular/blob/master/AngularExample/MovieDouban/AgMovie_0622154210.ipa)
 
 	
 	
