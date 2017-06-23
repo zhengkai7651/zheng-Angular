@@ -1,6 +1,7 @@
 ## Angular 实现的豆瓣电影
 
 [Android安装包](https://github.com/zhengkai7651/zheng-Angular/blob/master/AngularExample/MovieDouban/AgMovie_0622153924.apk)
+
 [IOS安装包](https://github.com/zhengkai7651/zheng-Angular/blob/master/AngularExample/MovieDouban/AgMovie_0622154210.ipa)
 
 ![sampleIndex](https://github.com/zhengkai7651/zheng-Angular/blob/master/AngularExample/MovieDouban/pc.gif)
